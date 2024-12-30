@@ -1,0 +1,6 @@
+CVAT/val/images/2024-12-29_14.31.28.png
+CVAT/val/images/2024-12-29_14.31.46.png
+CVAT/val/images/2024-12-29_14.31.58.png
+CVAT/val/images/2024-12-29_14.32.08.png
+CVAT/val/images/2024-12-29_14.32.23.png
+CVAT/val/images/2024-12-29_14.32.37.png
